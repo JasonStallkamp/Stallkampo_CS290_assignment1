@@ -1,1 +1,1 @@
-This is a copy of assignment 2 displaying profficensy with git
+This is a copy of assignment 2 displaying proficiency with git
